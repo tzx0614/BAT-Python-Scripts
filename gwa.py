@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#! python3
 # GWA Calculator GUI
 
 # -*- coding: utf-8 -*-

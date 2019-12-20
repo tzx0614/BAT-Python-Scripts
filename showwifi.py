@@ -1,5 +1,6 @@
 #! python3
-# showwifi.py - shows wifi connected in computer
+""" Shows all the wifi names and their respective passwords that's connected in the local computer. """
+# This code is BORROWED and is NOT mine.
 
 import subprocess
 
